@@ -1,0 +1,2 @@
+bool isEven();
+void input();
