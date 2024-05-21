@@ -1,6 +1,12 @@
-#include "MyHeader.hpp"
-int main(int argc, char const *argv[])
+#include <iostream>
+#include <conio.h>
+#include <math.h>
+using namespace std;
+int main()
 {
-    input();
-    return 0;
+    int a, b;
+    cout << "Enter two numbers" << endl;
+    cin >> a;
+    cin >> b;
+    cout << a << "\t" << b << endl;
 }

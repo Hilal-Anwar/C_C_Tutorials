@@ -31,3 +31,6 @@ void input()
     cin >> a >> b;
     cout << "The sum of two numbers is = " << (a + b) << endl;
 }
+void dosomething(){
+  cout<<"Hello world"<<endl;
+}
