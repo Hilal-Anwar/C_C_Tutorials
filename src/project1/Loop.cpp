@@ -16,7 +16,6 @@ int main(int argc, char const *argv[])
         }
         c = c + 1;
     }
-
     cout << "The loop has ended\n";
     return 0;
 }
