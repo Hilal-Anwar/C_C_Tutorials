@@ -7,11 +7,11 @@
 EXE = app
 
 # C compiler
-CC = clang
+CC = gcc
 # C++ compiler
-CXX = clang++
+CXX = g++
 # linker
-LD = clang++
+LD = g++
 
 # C flags
 CFLAGS = -std=c2x
